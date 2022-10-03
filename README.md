@@ -11,9 +11,9 @@ Atualmente sou Tech Recruiter na [SONDA](https://www.linkedin.com/company/sonda/
 <br><br>
 Meu objetivo é ajudar você a encontrar aquela oportunidade incrível na área tech, sendo ela a primeira oportunidade ou um novo desafio.
 
-Fique ligado! que sempre temos vagas!!!
+Fique ligado! Sempre temos vagas!!!
 <br>
-<br>Se quiser saber mais sobre as oportunidades segue abaixo meus contatos:
+<br>Se quiser saber mais sobre as oportunidades, segue abaixo meus contatos:
   
   <br>
 
