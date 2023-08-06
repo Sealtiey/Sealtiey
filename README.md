@@ -7,8 +7,6 @@
 
 Eu sou [Sealtiey Menegassi](https://www.linkedin.com/in/sealtieymenegassi//);
 <br> <br> 
-Atualmente sou Tech Recruiter na [SONDA](https://www.linkedin.com/company/sonda/mycompany/verification/);
-<br><br>
 Meu objetivo é ajudar você, a encontrar aquela oportunidade incrível na área tech, sendo ela a primeira oportunidade ou um novo desafio.
 
 Fique ligado! Sempre temos vagas!!!
