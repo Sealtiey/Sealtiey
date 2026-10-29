@@ -10,7 +10,6 @@ Eu sou [Sealtiey Menegassi](https://www.linkedin.com/in/sealtieymenegassi//);
 Atualmente estou migrando para a área de Quality Assurance (QA)! 🚀
 <br>
 Estou aprendendo, explorando e registrando minha jornada por aqui — agora também usando o Git para versionar meus estudos, projetos e testes. 😄
-Antes disso, atuei como recrutadora tech, então se você ainda está buscando aquela vaga dos sonhos na área de tecnologia, talvez eu possa ajudar de alguma forma!
 
 <br>
 📌 Fique à vontade para explorar meu repositório, acompanhar minha evolução e trocar experiências.
