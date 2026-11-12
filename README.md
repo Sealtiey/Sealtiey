@@ -34,7 +34,7 @@ Também estou dando os primeiros passos em automação com **Playwright** (veja 
 ### 📫 Vamos conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sealtieymenegassi/)
-- 🌐 Portfólio: [sealtiey.github.io](https://sealtiey.github.io).
+- 🌐 Portfólio: [sealtiey.github.io](https://sealtiey.github.io)
 - ✉️ sealtieyam@gmail.com
 
 📌 Aqui eu versiono meus estudos, projetos e testes. Fique à vontade para explorar, acompanhar minha evolução e trocar experiências! 😄
