@@ -6,7 +6,7 @@ QA com formação prática pela Mate Academy. Escrevo planos e casos de teste, e
 
 ### 🧪 Experiência e projetos
 
-- **Gestorjit (produto real, voluntária):** sistema web em produção para gestão de academias. Equipe de 3 QAs, suíte de 185 casos de teste no TestRail (autenticação, permissões por perfil, financeiro e fluxos ponta a ponta) e bugs reportados no Jira, entre eles uma falha de segurança no login
+- **GestorJit (produto real, voluntária):** sistema web em produção para gestão de academias. Equipe de 3 QAs, suíte de 185 casos de teste no TestRail (autenticação, permissões por perfil, financeiro e fluxos ponta a ponta) e bugs reportados no Jira, entre eles uma falha de segurança no login
 - **Huntd (web e mobile):** ciclo completo de testes, com plano de teste, RTM, matriz de permissões, 155 casos de teste no TestRail, 8 bugs no Jira e relatório final
 - **Conduit (web e API):** coleção no Postman com 44 requisições e 157 verificações automáticas, cenários negativos, valor-limite e permissões (401 e 403), e consultas SQL com JOIN
 - **Investigação de bugs:** de um erro 500 na tela até a causa no banco de dados
