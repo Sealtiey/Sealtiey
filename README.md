@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Sealtiey Menegassi 👋
 
-**Analista de QA Júnior** · testes manuais web, mobile e API · Ex-Tech Recruiter
+**Analista de QA Júnior** · testes web e de API, SQL e automação com Playwright (em aprendizado) · Ex-Tech Recruiter
 
-QA com formação prática pela Mate Academy. Escrevo planos e casos de teste, executo testes em web, mobile e API e documento bugs com clareza. Antes, atuei 5 anos como Tech Recruiter contratando times de tecnologia, inclusive QAs, e conheço por dentro o que um time de produto espera de quem testa.
+QA com formação prática pela Mate Academy. Escrevo planos e casos de teste, executo testes em web e API, consulto dados com SQL e documento bugs com clareza. Antes, atuei 5 anos como Tech Recruiter contratando times de tecnologia, inclusive QAs, e conheço por dentro o que um time de produto espera de quem testa.
 
 ### 🧪 Experiência e projetos
 
