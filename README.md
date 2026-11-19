@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Sealtiey Menegassi 👋
 
-**Analista de QA Júnior** · testes web e de API, SQL e automação com Playwright (em aprendizado) · Scrum (SFC)
+**Analista de QA Júnior** · testes web e de API · SQL · automação com Playwright · Scrum (SFC)
 
 QA com formação prática pela Mate Academy. Escrevo planos e casos de teste, executo testes em web e API, consulto dados com SQL e documento bugs com clareza. Antes, atuei 5 anos como Tech Recruiter contratando times de tecnologia, inclusive QAs, e conheço por dentro o que um time de produto espera de quem testa.
 
