@@ -25,6 +25,8 @@ QA com formação prática pela Mate Academy. Escrevo planos e casos de teste, e
 
 `Jira` `TestRail` `Postman` `SQL` `Chrome DevTools` `Android Studio` `DBeaver` `Docker` `Git` `Playwright (em aprendizado)`
 
+**Certificação:** Scrum Fundamentals Certified (SFC), SCRUMstudy, 2026
+
 **Idiomas:** inglês pré-intermediário, em evolução (casos de teste e bug reports escritos em inglês) · Libras intermediário, com interesse em testes de acessibilidade
 
 ### 📫 Contato
